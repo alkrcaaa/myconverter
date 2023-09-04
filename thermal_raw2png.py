@@ -2,6 +2,7 @@ import cv2 as cv
 import numpy as np
 import os
 
+test 
 
 base_path = "/home/ali/Desktop/haziran_termal_calb/raw_topng/test1"
 save_path = "/home/ali/Desktop/haziran_termal_calb/raw_topng/png/"
